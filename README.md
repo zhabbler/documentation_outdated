@@ -1,4 +1,4 @@
-# documentation
+# <img align="right" src="https://zhabbler.ru/assets/images/icon.png" alt="Жабблер" title="Жабблер" width="12%">documentation
 API документация Жабблера
 # Как вызвать функцию?
 Чтобы вызвать функцию, необходимо перейти по URL адресу: ```https://zhabbler.ru/public_api/?type={НАЗВАНИЕ ФУНКЦИИ}```.<br>
