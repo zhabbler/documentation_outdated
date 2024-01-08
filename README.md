@@ -154,9 +154,7 @@ API документация Жабблера
     "name":"ярослав",
     "nickname":"flydelick",
     "profile_picture":"{длинный url}",
-    "profile_cover":"{длинный url}",
-    "biography":"",
-    "birth":"2009-01-05"
+    "profile_cover":"{длинный url}"
   }
 ]
 ```
